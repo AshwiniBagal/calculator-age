@@ -1,0 +1,60 @@
+#mainDiv{
+    margin-left: 400px;
+    background-color:burlywood;
+    width: 400px;
+    height: 400px;
+    border-radius: 40px;
+}
+h2{
+    margin-left: 120px;
+   
+    padding-top: 100px;
+    color:darkslategray;
+    
+}
+#selectAge{
+    margin-left: 100px;
+    padding:10px;
+    color: chocolate;
+}
+#button{
+    margin-left: 100px;
+    padding:8px;
+}
+#calculation{
+    margin-left: 100px;
+    padding:10px;
+    color:chocolate;
+}
+#cal{
+background-color: darkkhaki;
+color: darkmagenta;
+border-radius: 5px;
+box-shadow:2px 2px 4px 0px ;
+}
+#reset{
+    background-color: darkkhaki;
+color: darkmagenta;
+border-radius: 5px;
+box-shadow:2px 2px 4px 0px ;
+}
+#dt{
+    background-color:gray;
+color: white;
+border-radius: 5px;
+box-shadow:2px 2px 4px 0px ;
+}
+.fa-twitter{
+    margin-left: 100px;
+    font-size: 20px;
+}
+.fa-linkedin{
+    font-size: 20px;
+}
+.fa-square-facebook{
+    font-size: 20px;
+}
+
+.fa-square-instagram{
+    font-size: 20px;
+}
