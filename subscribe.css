@@ -1,0 +1,45 @@
+#content{
+    background-color: rgb(0, 85, 255);
+    margin-left: 15px;
+    width: 300px;
+    height: 200px;
+    border-radius: 30px;
+    color: white;
+   
+}
+#mainDiv{
+    margin-left: 400px;
+    width: 330px;
+    height: 550px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px 0px;
+}
+#pra{
+    margin-left: 20px;
+    padding-top: 10px;
+}
+h2{
+    padding-top: 20px;
+    margin-left: 15px;
+}
+#div3{
+    margin-left: 15px;
+}
+button{
+    float: right;
+    border-radius: 3px;
+    padding: 2px;
+    margin-top: 30px;
+    margin-right: 30px;
+}
+.text
+{
+    padding: 3px;
+    border-radius: 3px;
+    width: 250px;
+    background-color: rgb(216, 214, 214);
+}
+.required::after{
+content: '*';
+color: red;
+}
