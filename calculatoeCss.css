@@ -1,0 +1,55 @@
+#mainContainer{
+    /* border: 1px solid black; */
+    height: 400px;
+    width: 700px;
+    margin: 100px auto;
+    box-shadow: 3px 4px 10px 0px;
+    background-color:rgb(208, 239, 229);
+}
+
+
+ label{
+    margin-left: 25px;
+    font-size: larger;
+    font-weight: bold;
+    color:rgb(6, 114, 78);
+ }
+#result{
+    margin-top: 20px;
+    padding-top: 40px;
+   text-align: center;
+    display: block;
+    margin-bottom: 30px;
+}
+.resultValue{
+  color:rgb(6, 114, 78);
+}
+
+.input{
+  border: 2px solid mediumaquamarine;
+  border-radius: 10px;
+  padding: 10px;
+  margin-right: 15px;
+  margin-left: 5px;
+ 
+}
+
+.arithmatic{
+
+  color: mediumaquamarine;
+
+  border-radius: 10px;
+  box-shadow: 2px 4px 10px 0px;
+  font-size: larger;
+  margin-left: 40px;
+  font-weight: bold;
+
+  padding: 10px;
+
+  border: 1px solid mediumaquamarine;
+
+  display: inline;
+
+  margin-top: 80px;
+
+}
